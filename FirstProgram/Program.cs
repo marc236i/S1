@@ -5,6 +5,7 @@ namespace FirstProgram
     class Program
     {
         static void Main(string[] args)
+            //test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Marc Sejrup Berg");
